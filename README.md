@@ -1,13 +1,18 @@
-# Different Editing modes and Cell Edit Types in Vue Grid
+# Deep dive into Grouping and Aggregates in the Vue Grid
 
 A quick start project that helps you to enable grouping in the Vue Grid and apply grouping on initial loading. This project contains code snippet to work with built-in and custom aggregates in the Grid, along with group and caption aggregates.   
 
 Documentation:
+
 Grouping: https://ej2.syncfusion.com/vue/documentation/grid/grouping/
+
 Aggregates: https://ej2.syncfusion.com/vue/documentation/grid/aggregates/
 
+
 Online Examples: 
+
 Grouping: https://ej2.syncfusion.com/demos/#/material/grid/grouping.html
+
 Aggregates: https://ej2.syncfusion.com/demos/#/material/grid/aggregate-default.html
 
 ## Project pre-requisites
